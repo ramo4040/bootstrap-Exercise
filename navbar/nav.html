@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>navbar</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+  <style>
+    body {
+      background-color: hsla(215, 100%, 97%, 1);
+      background-image:
+        radial-gradient(at 64% 20%, hsla(162, 100%, 89%, 1) 0px, transparent 50%),
+        radial-gradient(at 63% 20%, hsla(162, 100%, 89%, 1) 0px, transparent 50%);
+      background-attachment: fixed;
+    }
+  </style>
+
+  <div class="container fixed-top p-3 rounded-4 mt-5" style="background-color: #d4e2e5 !important;">
+
+    <nav class="navbar navbar-expand-md  bg-light  p-4 rounded-4">
+      <div class="collapse navbar-collapse ">
+        
+        <ul class="navbar-nav me-auto fw-bold ">
+          <li class="nav-item ">
+            <a class="nav-link " href="#">FRAMEWORK</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">DEMOS</a>
+          </li>
+          <!-- dropdown menu 1 -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              RESOURCES
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Dev101</a></li>
+              <li><a class="dropdown-item" href="#">Dev101</a></li>
+              <li><a class="dropdown-item" href="#">YR</a></li>
+            </ul>
+          </li>
+
+          <!-- dropdown menu 2 -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              DOCUMENTATION
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Dev101</a></li>
+              <li><a class="dropdown-item" href="#">Dev101</a></li>
+              <li><a class="dropdown-item" href="#">YR</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <!-- button -->
+        <button class="btn btn-light btn-lg me-3" type="submit">Log in</button>
+        <button class="btn btn-dark btn-lg" type="submit">Sign up</button>
+
+      </div>
+    </nav>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
