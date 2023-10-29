@@ -5,7 +5,14 @@
 ## Features:
 
 ✅ Practical tasks and exercises.
+
 🚀 Performance-focused solutions.
+
 📝 Step-by-step guidance.
+
 🔍 Code optimization tips.
+
 💡 Multiple perspectives.
+
+إِنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
+
