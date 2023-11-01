@@ -14,5 +14,5 @@
 
 💡 Multiple perspectives.
 
-<img src='navbar/1.png' width='410'> <img src='Rent A Car UI Design/1.png' width='410'>
+<img src='navbar/1.png' width='410'> <img src='Rent A Car UI Design/1.png' width='410'> <img src='Pricing Table/1.png' width='410'>
 
